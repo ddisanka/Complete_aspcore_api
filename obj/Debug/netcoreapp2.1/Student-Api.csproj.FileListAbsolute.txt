@@ -1,0 +1,14 @@
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\bin\Debug\netcoreapp2.1\Student-Api.deps.json
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\bin\Debug\netcoreapp2.1\Student-Api.runtimeconfig.json
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\bin\Debug\netcoreapp2.1\Student-Api.runtimeconfig.dev.json
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\bin\Debug\netcoreapp2.1\Student-Api.dll
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\bin\Debug\netcoreapp2.1\Student-Api.pdb
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.csprojAssemblyReference.cache
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.csproj.CoreCompileInputs.cache
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.RazorAssemblyInfo.cache
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.RazorAssemblyInfo.cs
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.AssemblyInfoInputs.cache
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.AssemblyInfo.cs
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.RazorTargetAssemblyInfo.cache
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.dll
+C:\Users\Nibanu\Desktop\Complete-App\Student-Api\obj\Debug\netcoreapp2.1\Student-Api.pdb
